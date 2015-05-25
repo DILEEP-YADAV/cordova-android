@@ -57,6 +57,6 @@ These commands live in a generated Cordova Android project. Any interactions wit
 2. Import it via "Non-Android Studio Project"
 
 
-*[Apache Android plugin help](dileepyadav.wordpress.com)  
+[Apache Android plugin help Blog](https://dileepyadav.wordpress.com/)  
 
 
